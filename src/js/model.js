@@ -1,5 +1,5 @@
-import { get } from 'core-js/stable';
-import { async } from 'regenerator-runtime';
+// import { get } from 'core-js/stable';
+// import { async } from 'regenerator-runtime';
 import { API_URL } from './config.js';
 import { AJAX } from './helpers.js';
 import { RES_PER_PAGE, KEY } from './config.js';
